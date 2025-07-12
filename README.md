@@ -27,6 +27,6 @@ i. Geocode RTC dataset produced by ISCE-2 (code from Simon Kraatz)
 
 ## Citation
 
-If this toolkit is used in publications, presentations, or other venues, please cite 📝 the following:
+If this code is used in publications, presentations, or other venues, please cite 📝 the following:
 
 Flores, A., Parache, H.B., Martin Arias, V., Jimenez, S., Herndon, K., Mehlich, S., Meyer, F., Agarwal, S., Ilushchenko, S., Agarwal, M., Puzzi Nicolau, A., Markert, A., Saah, D., Cherrington, E.A. 2023. Evaluating SAR Radiometric Terrain Correction Products: Analysis-Ready Data for Users. *Remote Sensing*, 15 (5110): 1-19. DOI: 128098. https://www.mdpi.com/2072-4292/15/21/5110
