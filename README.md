@@ -1,8 +1,9 @@
 # SAR ARD open source comparison
+[![DOI](https://img.shields.io/badge/DOI-FAB70C.svg?style=for-the-badge&logo=DOI&logoColor=black)](https://www.mdpi.com/2072-4292/15/21/5110)
 
 **Description**: Scripts for time series analysis of five Analysis Ready Data (ARD) synthetic aperture radar (SAR) products 
 
-## 📢 Add this repo to Google Earth Engine (GEE) 📢
+## 📢 Add this repo to [Google Earth Engine](https://code.earthengine.google.com/) 🌐 (GEE) 📢
 To add the code repository 💾 directly to your GEE account, use the following 🔗: https://code.earthengine.google.com/?accept_repo=users/helenbluebaldwin/SAR_ARD_TimeSeries.
 
 ## Functions
